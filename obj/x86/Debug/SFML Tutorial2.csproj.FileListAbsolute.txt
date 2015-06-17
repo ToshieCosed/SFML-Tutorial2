@@ -1,0 +1,26 @@
+C:\Users\Rain's Rig\AppData\Local\Temporary Projects\SFML Tutorial2\bin\Debug\SFML Tutorial2.exe
+C:\Users\Rain's Rig\AppData\Local\Temporary Projects\SFML Tutorial2\bin\Debug\SFML Tutorial2.pdb
+C:\Users\Rain's Rig\AppData\Local\Temporary Projects\SFML Tutorial2\bin\Debug\sfmlnet-audio-2.dll
+C:\Users\Rain's Rig\AppData\Local\Temporary Projects\SFML Tutorial2\bin\Debug\sfmlnet-graphics-2.dll
+C:\Users\Rain's Rig\AppData\Local\Temporary Projects\SFML Tutorial2\bin\Debug\sfmlnet-window-2.dll
+C:\Users\Rain's Rig\AppData\Local\Temporary Projects\SFML Tutorial2\obj\x86\Debug\SFML Tutorial2.csprojResolveAssemblyReference.cache
+C:\Users\Rain's Rig\AppData\Local\Temporary Projects\SFML Tutorial2\obj\x86\Debug\SFML Tutorial2.exe
+C:\Users\Rain's Rig\AppData\Local\Temporary Projects\SFML Tutorial2\obj\x86\Debug\SFML Tutorial2.pdb
+C:\Users\Rain's Rig\AppData\Local\Temporary Projects\SFML Tutorial2\bin\Debug\csfml-audio-2.dll
+C:\Users\Rain's Rig\AppData\Local\Temporary Projects\SFML Tutorial2\bin\Debug\csfml-graphics-2.dll
+C:\Users\Rain's Rig\AppData\Local\Temporary Projects\SFML Tutorial2\bin\Debug\csfml-window-2.dll
+C:\Users\Rain's Rig\AppData\Local\Temporary Projects\SFML Tutorial2\bin\Debug\libsndfile-1.dll
+C:\Users\Rain's Rig\AppData\Local\Temporary Projects\SFML Tutorial2\bin\Debug\openal32.dll
+C:\Users\Rain's Rig\documents\visual studio 2010\Projects\SFML Tutorial2\SFML Tutorial2\obj\x86\Debug\SFML Tutorial2.exe
+C:\Users\Rain's Rig\documents\visual studio 2010\Projects\SFML Tutorial2\SFML Tutorial2\obj\x86\Debug\SFML Tutorial2.pdb
+C:\Users\Rain's Rig\documents\visual studio 2010\Projects\SFML Tutorial2\SFML Tutorial2\bin\Debug\csfml-audio-2.dll
+C:\Users\Rain's Rig\documents\visual studio 2010\Projects\SFML Tutorial2\SFML Tutorial2\bin\Debug\csfml-graphics-2.dll
+C:\Users\Rain's Rig\documents\visual studio 2010\Projects\SFML Tutorial2\SFML Tutorial2\bin\Debug\csfml-window-2.dll
+C:\Users\Rain's Rig\documents\visual studio 2010\Projects\SFML Tutorial2\SFML Tutorial2\bin\Debug\libsndfile-1.dll
+C:\Users\Rain's Rig\documents\visual studio 2010\Projects\SFML Tutorial2\SFML Tutorial2\bin\Debug\openal32.dll
+C:\Users\Rain's Rig\documents\visual studio 2010\Projects\SFML Tutorial2\SFML Tutorial2\bin\Debug\SFML Tutorial2.exe
+C:\Users\Rain's Rig\documents\visual studio 2010\Projects\SFML Tutorial2\SFML Tutorial2\bin\Debug\SFML Tutorial2.pdb
+C:\Users\Rain's Rig\documents\visual studio 2010\Projects\SFML Tutorial2\SFML Tutorial2\bin\Debug\sfmlnet-audio-2.dll
+C:\Users\Rain's Rig\documents\visual studio 2010\Projects\SFML Tutorial2\SFML Tutorial2\bin\Debug\sfmlnet-graphics-2.dll
+C:\Users\Rain's Rig\documents\visual studio 2010\Projects\SFML Tutorial2\SFML Tutorial2\bin\Debug\sfmlnet-window-2.dll
+C:\Users\Rain's Rig\documents\visual studio 2010\Projects\SFML Tutorial2\SFML Tutorial2\obj\x86\Debug\SFML Tutorial2.csprojResolveAssemblyReference.cache
